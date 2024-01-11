@@ -1,0 +1,3 @@
+/home/maanas/Desktop/Computer_Graphics_Project/CG_Project_Code/build/CMakeFiles/SolidTextureFrom2DExemplar.dir
+/home/maanas/Desktop/Computer_Graphics_Project/CG_Project_Code/build/CMakeFiles/edit_cache.dir
+/home/maanas/Desktop/Computer_Graphics_Project/CG_Project_Code/build/CMakeFiles/rebuild_cache.dir
