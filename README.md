@@ -1,4 +1,4 @@
-[embed]https://github.com/AlgorithmicDeer/Solid-Texture-Synthesis-From-2D-Exemplars/blob/main/Computer%20Graphics.pdf[/embed]
+[embed]https://github.com/AlgorithmicDeer/Solid-Texture-Synthesis-From-2D-Exemplars/blob/main/Computer%20Graphics.pdf [/embed]
 # Computer Graphics Project
 
 This repository contains the code for the Computer Graphics project - Mid Evaluation (Project 11, Group 6).
